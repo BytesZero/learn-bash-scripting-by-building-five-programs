@@ -299,3 +299,5 @@ clear
 ./five.sh
 help
 help type
+type -a echo
+type echo
