@@ -271,3 +271,4 @@ help [[
 [[ a == B ]]
 [[ a == a ]]
 [[ hello == hello ]]
+[[ hello == world ]]
