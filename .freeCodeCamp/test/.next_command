@@ -257,3 +257,5 @@ RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again late
 ./fortune.sh
 help
 help function
+__vsc_prompt_cmd_original
+./fortune.sh
