@@ -86,3 +86,4 @@ help
 man
 man echo
 man if
+help if
