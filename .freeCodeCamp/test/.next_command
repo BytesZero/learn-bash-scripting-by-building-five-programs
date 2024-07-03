@@ -293,3 +293,4 @@ __vsc_prompt_cmd_original
 ./fortune.sh
 __vsc_prompt_cmd_original
 touch five.sh
+chmod +x five.sh
