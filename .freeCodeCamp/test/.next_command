@@ -227,3 +227,5 @@ chmod +x randomcount.sh
 ./randomcount.sh
 ./randomcount.sh
 help let
+./bingo.sh
+./bingo.sh
