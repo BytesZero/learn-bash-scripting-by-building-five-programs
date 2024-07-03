@@ -307,3 +307,4 @@ __vsc_prompt_cmd_original
 type then
 type bash
 type psql
+type ./five.sh
