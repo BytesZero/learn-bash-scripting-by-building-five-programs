@@ -127,3 +127,4 @@ help test
 ./countdown.sh -1
 help
 help for
+./countdown.sh 10
