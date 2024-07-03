@@ -83,3 +83,6 @@ man if
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 help
+man
+man echo
+man if
