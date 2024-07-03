@@ -301,3 +301,4 @@ help
 help type
 type -a echo
 type echo
+type read
