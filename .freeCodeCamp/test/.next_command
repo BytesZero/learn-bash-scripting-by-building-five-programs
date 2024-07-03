@@ -256,3 +256,4 @@ RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again late
 ./fortune.sh
 ./fortune.sh
 help
+help function
