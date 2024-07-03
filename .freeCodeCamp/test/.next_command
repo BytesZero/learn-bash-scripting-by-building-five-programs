@@ -268,3 +268,6 @@ help until
 ./fortune.sh
 help ?
 help [[
+[[ a == B ]]
+[[ a == a ]]
+[[ hello == hello ]]
