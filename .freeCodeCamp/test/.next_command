@@ -128,3 +128,5 @@ help test
 help
 help for
 ./countdown.sh 10
+help sleep
+help
