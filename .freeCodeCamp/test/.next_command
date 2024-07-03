@@ -130,3 +130,4 @@ help for
 ./countdown.sh 10
 help sleep
 help
+ls --color=auto /
