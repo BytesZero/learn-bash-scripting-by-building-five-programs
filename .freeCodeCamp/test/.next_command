@@ -266,3 +266,5 @@ help for
 help until
 ./fortune.sh
 ./fortune.sh
+help ?
+help [[
