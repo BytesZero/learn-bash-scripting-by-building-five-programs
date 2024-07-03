@@ -131,3 +131,4 @@ help for
 help sleep
 help
 ls --color=auto /
+ls --color=auto /bin
