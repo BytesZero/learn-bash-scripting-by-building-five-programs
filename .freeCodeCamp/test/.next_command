@@ -71,3 +71,4 @@ echo Hello $NAME.
 echo --help
 man echo
 ./questionnaire.sh
+./questionnaire.sh
