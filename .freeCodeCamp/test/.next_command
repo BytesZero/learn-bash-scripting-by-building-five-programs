@@ -272,3 +272,4 @@ help [[
 [[ a == a ]]
 [[ hello == hello ]]
 [[ hello == world ]]
+[[ hello =~ el ]]
